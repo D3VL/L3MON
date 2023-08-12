@@ -1,0 +1,18 @@
+{
+  "name": "l3mon",
+  "version": "0.0.1",
+  "description": "Layer 3 Advanced Network Management and Monitoring System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3VL/L3MON.git"
+  },
+  "author": "D3VL",
+  "bugs": {
+    "url": "https://github.com/D3VL/L3MON/issues"
+  },
+  "homepage": "https://github.com/D3VL/L3MON#readme"
+}
