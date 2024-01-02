@@ -1,5 +1,5 @@
 {
-  "name": "l3mon",
+  "name": "aneh",
   "version": "0.0.1",
   "description": "Layer 3 Advanced Network Management and Monitoring System",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D3VL/L3MON.git"
+    "url": "git+https://github.com/sinichikudo2308/L3MON.git"
   },
   "author": "D3VL",
   "bugs": {
-    "url": "https://github.com/D3VL/L3MON/issues"
+    "url": "https://github.com/sinichikudo2308/L3MON/issues"
   },
   "homepage": "https://github.com/D3VL/L3MON#readme"
 }
